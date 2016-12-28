@@ -1,0 +1,15 @@
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.csproj.GenerateResource.Cache
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\atmsystem.exe.config
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.Login.resources
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.MainMenu.resources
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.Properties.Resources.resources
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.Register.resources
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\atmsystem.exe
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\atmsystem.pdb
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.CheckBalance.resources
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.Deposit.resources
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.UpdateDetails.resources
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.Withdraw.resources
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.exe
+c:\users\steve\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.pdb
+C:\Users\Steve\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\atmsystem.csprojResolveAssemblyReference.cache
